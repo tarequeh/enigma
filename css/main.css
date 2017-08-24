@@ -94,3 +94,7 @@ img {
 a {
     text-decoration: none;
 }
+
+a:hover {
+    color: #45ADA8;
+}
